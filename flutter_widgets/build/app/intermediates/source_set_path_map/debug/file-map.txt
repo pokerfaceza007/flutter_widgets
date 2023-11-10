@@ -1,0 +1,20 @@
+com.example.flutter_widgets.app-debug-0 C:\Mobile Application\flutter_widgets\android\app\src\debug\res
+com.example.flutter_widgets.app-main-1 C:\Mobile Application\flutter_widgets\android\app\src\main\res
+com.example.flutter_widgets.app-pngs-2 C:\Mobile Application\flutter_widgets\build\app\generated\res\pngs\debug
+com.example.flutter_widgets.app-resValues-3 C:\Mobile Application\flutter_widgets\build\app\generated\res\resValues\debug
+com.example.flutter_widgets.app-rs-4 C:\Mobile Application\flutter_widgets\build\app\generated\res\rs\debug
+com.example.flutter_widgets.app-mergeDebugResources-5 C:\Mobile Application\flutter_widgets\build\app\intermediates\incremental\debug\mergeDebugResources\merged.dir
+com.example.flutter_widgets.app-mergeDebugResources-6 C:\Mobile Application\flutter_widgets\build\app\intermediates\incremental\debug\mergeDebugResources\stripped.dir
+com.example.flutter_widgets.app-merged_res-7 C:\Mobile Application\flutter_widgets\build\app\intermediates\merged_res\debug
+com.example.flutter_widgets.app-packaged_res-8 C:\Mobile Application\flutter_widgets\build\cloud_firestore\intermediates\packaged_res\debug
+com.example.flutter_widgets.app-packaged_res-9 C:\Mobile Application\flutter_widgets\build\firebase_auth\intermediates\packaged_res\debug
+com.example.flutter_widgets.app-packaged_res-10 C:\Mobile Application\flutter_widgets\build\firebase_core\intermediates\packaged_res\debug
+com.example.flutter_widgets.app-packaged_res-11 C:\Mobile Application\flutter_widgets\build\path_provider_android\intermediates\packaged_res\debug
+com.example.flutter_widgets.app-jetified-window-1.0.0-beta04-12 C:\Users\ASUS\.gradle\caches\transforms-3\25cee5f028ac2a6b79fd6278ff5b59e2\transformed\jetified-window-1.0.0-beta04\res
+com.example.flutter_widgets.app-jetified-play-services-basement-18.1.0-13 C:\Users\ASUS\.gradle\caches\transforms-3\58aa1384bde170d075503b845cfcf44c\transformed\jetified-play-services-basement-18.1.0\res
+com.example.flutter_widgets.app-jetified-annotation-experimental-1.1.0-14 C:\Users\ASUS\.gradle\caches\transforms-3\6c0c163cc77ae6c91f9f7dfcd179c29c\transformed\jetified-annotation-experimental-1.1.0\res
+com.example.flutter_widgets.app-browser-1.4.0-15 C:\Users\ASUS\.gradle\caches\transforms-3\6d3bbaf4594b8ed85e4722883be764b3\transformed\browser-1.4.0\res
+com.example.flutter_widgets.app-core-1.6.0-16 C:\Users\ASUS\.gradle\caches\transforms-3\7e9df2ac2213a6bd3cef0f2f27870d79\transformed\core-1.6.0\res
+com.example.flutter_widgets.app-jetified-play-services-base-18.0.1-17 C:\Users\ASUS\.gradle\caches\transforms-3\aba8f806953ea3dd8f794da3aeb78a12\transformed\jetified-play-services-base-18.0.1\res
+com.example.flutter_widgets.app-jetified-window-java-1.0.0-beta04-18 C:\Users\ASUS\.gradle\caches\transforms-3\ae81e06d24c799147c26814497a2a305\transformed\jetified-window-java-1.0.0-beta04\res
+com.example.flutter_widgets.app-jetified-firebase-common-20.4.2-19 C:\Users\ASUS\.gradle\caches\transforms-3\e7d9dc77e05549f012842a2b34d6bb45\transformed\jetified-firebase-common-20.4.2\res
